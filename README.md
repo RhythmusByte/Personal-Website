@@ -14,6 +14,8 @@ The live version of the website can be accessed at [Netlify](https://akhilmahesh
           <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/akhil-mahesh/personal-website?color=black&logo=github&style=plastic">
           <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/akhil-mahesh/personal-website?color=black&style=plastic">
           <img alt="GitHub" src="https://img.shields.io/github/license/akhil-mahesh/personal-website?color=black&logo=github&style=plastic">
+          <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/akhil-mahesh/personal-website?color=black&style=plastic">
+          
 
 </p>
 
