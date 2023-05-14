@@ -6,6 +6,17 @@ Welcome to the repository of my personal website! This repository contains the s
 
 The live version of the website can be accessed at [Netlify](https://akhilmahesh.netlify.app/) and also on [GitHub Pages](https://akhil-mahesh.github.io/Personal-Website/).
 
+---
+
+<p align="center">
+          <img alt="Website" src="https://img.shields.io/website?down_color=darkred&down_message=error&logo=netlify&style=plastic&up_color=lime&up_message=working&url=https%3A%2F%2Fakhilmahesh.netlify.app%2F">
+          <img alt="Website" src="https://img.shields.io/website?down_color=darkred&down_message=error&logo=github&style=plastic&up_color=lime&up_message=working&url=https%3A%2F%2Fakhil-mahesh.github.io%2FPersonal-Website%2F">
+          <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/akhil-mahesh/personal-website?logo=github&style=plastic">
+
+</p>
+
+---
+
 ## Repository Structure
 
 The repository has the following structure:
