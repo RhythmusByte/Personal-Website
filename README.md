@@ -29,13 +29,13 @@ The repository has the following structure:
 
 ├── index.html
 
-├── css/
+├── style.css
 
-│   └── style.css
+│
 
-├── js/
+├── script.js
 
-│   └── script.js
+│
 
 ├── images/
 
@@ -45,7 +45,7 @@ The repository has the following structure:
 
 - `index.html`: The main HTML file that serves as the entry point of the website.
 
-- `style.css`: Directory containing the CSS stylesheets.
+- `style.css`: This file containing the CSS stylesheets.
 
 - `script.js`: Directory containing the JavaScript files.
 
