@@ -45,9 +45,9 @@ The repository has the following structure:
 
 - `index.html`: The main HTML file that serves as the entry point of the website.
 
-- `style.css`: This file containing the CSS stylesheets.
+- `style.css`: This CSS file that contains the styles and layout information for the website, which is used to customize the visual appearance of the HTML elements.
 
-- `script.js`: Directory containing the JavaScript files.
+- `script.js`: This JavaScript file that contains the programming code used to add interactivity, dynamic functionality, and manipulate the HTML and CSS elements on the website.
 
 - `images`: Directory containing the images used on the website.
 
@@ -68,7 +68,7 @@ My personal website showcases my work, skills, and achievements. Here are some n
 
 ## Hosting
 
-The website is hosted using GitHub Pages, allowing it to be accessible at [GitHub Pages](https://akhil-mahesh.github.io/Personal-Website/). Additionally, the website is also deployed on [Netlify](https://akhilmahesh.netlify.app/) using the Netlify platform.
+The website is hosted using GitHub Pages, allowing it to be accessible at [GitHub Pages](https://akhil-mahesh.github.io/Personal-Website/). Additionally, the website is also deployed on [Netlify](https://akhilmahesh.netlify.app/) using the Netlify platform. As an experiment I've created an app of this website. You can get the application from the [release](https://github.com/Akhil-Mahesh/Personal-Website/edit/alone-patch/README.mdhttps://github.com/Akhil-Mahesh/Personal-Website/releases) page.
 
 ## Contributions
 
