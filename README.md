@@ -1,6 +1,6 @@
 # Personal Website Repository
 
-Welcome to the repository of my personal website! This repository contains the source code and other necessary files for my personal website. The website is hosted on [GitHub Pages](https://akhil-mahesh.github.io/Personal-Website/) and is also deployed on [Netlifu](https://akhilmahesh.netlify.app/).
+Welcome to the repository of my personal website! This repository contains the source code and other necessary files for my personal website. The website is hosted on [GitHub Pages](https://akhil-mahesh.github.io/Personal-Website/) and is also deployed on [Netlify](https://akhilmahesh.netlify.app/).
 
 ## Website URL
 
