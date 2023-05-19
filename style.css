@@ -99,6 +99,7 @@ header .right {
   position: relative;
   height: calc(100% - 70px);
   align-self: flex-end;
+  min-height: 100%;
 }
 
 header h1 {
