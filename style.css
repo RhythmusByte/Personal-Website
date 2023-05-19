@@ -125,6 +125,9 @@ header .right .hero-image {
   position: absolute;
   bottom: 0;
   height: 90%;
+  width: auto;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 header .right .hero-bg {
