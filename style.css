@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #ff7474;
-  --gray-color: #23222a;
+  --primary-color: #0ef;
+  --gray-color: #00063d;
   --dark-color: #17171a;
   --light-color: #ebf0ff;
   --swiper-theme-color: #ff7474;
@@ -94,6 +94,13 @@ header .left {
   flex: 1;
 }
 
+header .right {
+  flex: 1;
+  position: relative;
+  height: calc(100% - 70px);
+  align-self: flex-end;
+}
+
 header h1 {
   font-size: 60px;
   color: #fff;
@@ -111,6 +118,17 @@ header p {
 
 header .btn {
   margin-right: 20px;
+}
+
+header .right .hero-image {
+  position: absolute;
+  bottom: 0;
+  height: 90%;
+}
+
+header .right .hero-bg {
+  position: absolute;
+  top: 20%;
 }
 
 .dots {
@@ -431,7 +449,7 @@ footer .social img {
   height: 40px;
 }
 
-/* About Section */
+/* Testimonials Section */
 
 .swiper {
   width: 100%;
@@ -602,3 +620,4 @@ footer .social img {
     font-size: 24px;
   }
 }
+
