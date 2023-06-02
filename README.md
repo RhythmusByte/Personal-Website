@@ -4,7 +4,7 @@ Welcome to the repository of my personal website! This repository contains the s
 
 ## Website URL
 
-The live version of the website can be accessed at [Netlify](https://akhilmahesh.netlify.app/) and also on [GitHub Pages](https://akhil-mahesh.github.io/Personal-Website/).
+The live version of the website can be accessed at [Netlify](https://akhilmahesh.netlify.app/) and also on [GitHub Pages](https://rhythmusbyte.github.io/Personal-Website/).
 
 ---
 
@@ -68,7 +68,7 @@ My personal website showcases my work, skills, and achievements. Here are some n
 
 ## Hosting
 
-The website is hosted using GitHub Pages, allowing it to be accessible at [GitHub Pages](https://akhil-mahesh.github.io/Personal-Website/). Additionally, the website is also deployed on [Netlify](https://akhilmahesh.netlify.app/) using the Netlify platform. As an experiment I've created an app of this website. You can get the application from the [release](https://github.com/RhythmusByte/Personal-Website/releases) page.
+The website is hosted using GitHub Pages, allowing it to be accessible at [GitHub Pages](https://rhythmusbyte.github.io/Personal-Website/). Additionally, the website is also deployed on [Netlify](https://akhilmahesh.netlify.app/) using the Netlify platform. As an experiment I've created an app of this website. You can get the application from the [release](https://github.com/RhythmusByte/Personal-Website/releases) page.
 
 ## Contributions
 
