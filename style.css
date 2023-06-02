@@ -127,8 +127,7 @@ header .right .hero-image {
 }
 
 header .right .hero-bg {
-  position: absolute;
-  top: 20%;
+  display: none;
 }
 
 .dots {
