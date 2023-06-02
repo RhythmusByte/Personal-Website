@@ -317,42 +317,6 @@ section:nth-of-type(even) {
   transform: translateY(0);
 }
 
-/* Services */
-
-.services ul {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.services ul li {
-  color: #fff;
-  font-size: 30px;
-  text-align: center;
-  text-transform: uppercase;
-  margin: 16px 0;
-  position: relative;
-}
-
-.services ul li::after {
-  content: "";
-  position: absolute;
-  height: 8px;
-  width: 8px;
-  border-radius: 50%;
-  background: red;
-  right: -20px;
-  top: 50%;
-  transform: translateY(-50%);
-  opacity: 0;
-}
-
-.services ul li:hover::after {
-  opacity: 1;
-}
-
 /* Skills */
 
 .skills .icons-container {
@@ -396,6 +360,13 @@ section:nth-of-type(even) {
 }
 
 .contact form input[type="text"],
+.contact form textarea {
+  padding: 8px 32px;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+}
+
+.contact form input[type="email"],
 .contact form textarea {
   padding: 8px 32px;
   font-size: 18px;
