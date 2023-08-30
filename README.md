@@ -1,6 +1,6 @@
 <!-- 
 Author - RhythmusByte
-Date - 21/08/2023
+Date - 30/08/2023
  -->
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+;portfolio+website's+repository;This+repository+contains;the+source+code+and;other+necessary+files;for+my+portfolio+website" alt="Typing SVG" /></a></h1>
 
@@ -29,7 +29,8 @@ The repository has the following structure:
 Portfolio
 ├── index.html
 ├── main.js
-└── style.css
+├── style.css
+└── favicon.ico
 ```
 
 - `index.html`: The main HTML file that serves as the entry point of the website.
