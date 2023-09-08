@@ -1,6 +1,6 @@
 <!-- 
 Author - RhythmusByte
-Date - 30/08/2023
+Date - 09/09/2023
  -->
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+;portfolio+website's+repository;This+repository+contains;the+source+code+and;other+necessary+files;for+my+portfolio+website" alt="Typing SVG" /></a></h1>
 
@@ -59,7 +59,7 @@ The website is hosted using GitHub Pages, allowing it to be accessible at [GitHu
 
 <h2>Contribution</h2>
 
-Contributions to the repository are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. I appreciate any feedback and help in making my personal website better.
+Contributions to the repository are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. I appreciate any feedback and help in making my personal website better. You [contact me](https://rhythmusbytelinks.netlify.app) for any assistance.
 
 <h2>Licence</h2>
 
