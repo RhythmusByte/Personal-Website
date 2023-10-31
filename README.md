@@ -1,6 +1,6 @@
 <!-- 
 Author - RhythmusByte
-Date - 27/09/2023
+Date - 31/10/2023
  -->
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+;portfolio+website's+repository;This+repository+contains;the+source+code+and;other+necessary+files;for+my+portfolio+website" alt="Typing SVG" /></a></h1>
 
@@ -67,4 +67,4 @@ The contents of this repository are licensed under the [MIT License](LICENSE). F
 
 ---
 
-Thank you for visiting my personal website repository! If you have any further questions or inquiries, please feel free to <a href="https://akhil-linktree.netlify.app/">reach out</a> to me. Don't forget to star my repo if you like.
+> Thank you for visiting my personal website repository! If you have any further questions or inquiries, please feel free to <a href="https://akhil-linktree.netlify.app/">reach out</a> to me. Don't forget to star my repo if you like.
