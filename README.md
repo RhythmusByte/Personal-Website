@@ -1,6 +1,6 @@
 <!-- 
 Author - RhythmusByte
-Date - 31/10/2023
+Date - 28/01/2024
  -->
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+;portfolio+website's+repository;This+repository+contains;the+source+code+and;other+necessary+files;for+my+portfolio+website" alt="Typing SVG" /></a></h1>
 
@@ -61,10 +61,14 @@ The website is hosted using GitHub Pages, allowing it to be accessible at [GitHu
 
 Contributions to the repository are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. I appreciate any feedback and help in making my personal website better. You [contact me](https://rhythmusbytelinks.netlify.app) for any assistance.
 
-<h2>Licence</h2>
+## Licence
 
 The contents of this repository are licensed under the [MIT License](LICENSE). Feel free to reuse and modify the code, but please provide attribution.
 
 ---
 
-> Thank you for visiting my personal website repository! If you have any further questions or inquiries, please feel free to <a href="https://akhil-linktree.netlify.app/">reach out</a> to me. Don't forget to star my repo if you like.
+> Thank you for visiting my portfolio website's repository! If you have any further questions or inquiries, please feel free to <a href="https://rhythmusbytelinks.netlify.app">reach out</a> to me. Don't forget to star my repo if you like.
+
+>> I know this website is not good enough. I'll try to upgrade this or either create a new version from scratch.
+
+>>> Nb: I created this on an android smartphone with the help of TrebEdit application. Within that limitation I had to sacrifice so many things, so if you find any errors please let me know.
