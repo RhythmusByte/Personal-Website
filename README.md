@@ -64,9 +64,11 @@ The contents of this repository are licensed under the [MIT License](LICENSE). F
 <details>
 <summary>Read</summary>
 
-> Thank you for visiting my portfolio website's repository! If you have any further questions or inquiries, please feel free to <a href="https://rhythmusbytelinks.netlify.app">reach out</a> to me. Don't forget to star my repo if you like.
+> Thank you for visiting my portfolio website's repository! If you have any further questions or inquiries, please feel free to <a href="https://rhythmusbytelinks.netlify.app">reach out</a>.
 
 > I know this website is not good enough. I'll try to upgrade this or either create a new version from scratch.
 
-> Nb: I created this on an android smartphone with the help of TrebEdit application. Within that limitation I had to sacrifice so many things, so if you find any errors please let me know.
+> PS: I created this on an android smartphone with the help of TrebEdit application. Within that limitation I had to sacrifice so many things, so if you find any errors please let me know. 
+
+> NB: Don't forget to star this repo if you like.
 </details>
