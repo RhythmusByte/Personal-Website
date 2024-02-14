@@ -1,6 +1,6 @@
 <!-- 
 Author - RhythmusByte
-Date - 28/01/2024
+Date - 15/02/2024
 -->
 
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+;portfolio+website's+repository;This+repository+contains;the+source+code+and;other+necessary+files;for+my+portfolio+website" alt="Typing SVG" /></a></h1>
