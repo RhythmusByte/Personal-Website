@@ -1,7 +1,8 @@
 <!-- 
 Author - RhythmusByte
 Date - 28/01/2024
- -->
+-->
+
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+;portfolio+website's+repository;This+repository+contains;the+source+code+and;other+necessary+files;for+my+portfolio+website" alt="Typing SVG" /></a></h1>
 
 <p>
@@ -32,14 +33,7 @@ Portfolio Website
 ├── style.css
 └── favicon.ico
 ```
-
-- `index.html`: The main HTML file that serves as the entry point of the website.
-
-- `style.css`: This CSS file that contains the styles and layout information for the website, which is used to customize the visual appearance of the HTML elements.
-
-- `main.js`: This JavaScript file that contains the programming code used to add interactivity, dynamic functionality, and manipulate the HTML and CSS elements on the website.
-
-<h2>Website Features</h2>
+## Website Features
 
 My personal website showcases my work, skills, and achievements. Here are some notable features of the website:
 
@@ -55,7 +49,7 @@ My personal website showcases my work, skills, and achievements. Here are some n
 
 <h2>Hosting</h2>
 
-The website is hosted using GitHub Pages, allowing it to be accessible at [GitHub Pages](https://rhythmusbyte.github.io/Personal-Website/). Additionally, the website is also deployed on [Netlify](https://akhilmahesh.netlify.app/) using the Netlify platform. As an experiment I've created an app of this website. You can get the application from the [release](https://github.com/RhythmusByte/Personal-Website/releases) page.
+The website is hosted using GitHub Pages, allowing it to be accessible at [GitHub Pages](https://rhythmusbyte.github.io/Personal-Website/). Additionally, the website is also deployed on [Netlify](https://akhilmahesh.netlify.app) using the Netlify platform.
 
 <h2>Contribution</h2>
 
@@ -67,8 +61,11 @@ The contents of this repository are licensed under the [MIT License](LICENSE). F
 
 ---
 
+<details>
+<summary>Read</summary>
 > Thank you for visiting my portfolio website's repository! If you have any further questions or inquiries, please feel free to <a href="https://rhythmusbytelinks.netlify.app">reach out</a> to me. Don't forget to star my repo if you like.
 
->> I know this website is not good enough. I'll try to upgrade this or either create a new version from scratch.
+> I know this website is not good enough. I'll try to upgrade this or either create a new version from scratch.
 
->>> Nb: I created this on an android smartphone with the help of TrebEdit application. Within that limitation I had to sacrifice so many things, so if you find any errors please let me know.
+> Nb: I created this on an android smartphone with the help of TrebEdit application. Within that limitation I had to sacrifice so many things, so if you find any errors please let me know.
+</details>
