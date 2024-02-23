@@ -71,3 +71,47 @@ window.addEventListener("scroll", () => {
     mainNav.style.padding = "16px 0";
   }
 });
+
+// Animated Text
+
+const texts = ["Akhil Mahesh", "a Developer", "a Blogger", "Akhil"];
+  let currentTextIndex = 0;
+  let currentCharIndex = 0;
+  const dynamicTextElement = document.getElementById("dynamic-text");
+  function animateText() {
+   
+    if (currentTextIndex >= texts.length) return;
+
+    dynamicTextElement.textContent += texts[currentTextIndex].charAt(currentCharIndex);
+    currentCharIndex++;
+    
+    if (currentCharIndex >= texts[currentTextIndex].length) {
+      setTimeout(() => {
+        eraseText();
+      }, 1000); 
+    } else {
+      setTimeout(animateText, 50); 
+    }
+  }
+
+  function eraseText() {
+    if (currentTextIndex === texts.length - 1 && currentCharIndex === texts[currentTextIndex].length) {
+        return; 
+    }
+    
+    let text = dynamicTextElement.textContent;
+    text = text.slice(0, -1);
+    dynamicTextElement.textContent = text;
+    
+    if (text.length === 0) {
+        currentCharIndex = 0;
+        currentTextIndex++;
+        if (currentTextIndex < texts.length) {
+            setTimeout(animateText, 1000);
+        }
+    } else {
+        setTimeout(eraseText, 50); 
+    }
+}
+
+  animateText();  
