@@ -19,13 +19,16 @@ A simple and elegant portfolio website for showcasing your projects and a way to
 
 ## Preview 
 
-<div align="center">
-<h4>Desktop</h4>
+<details>
+  <summary>View</summary>
+  <div align="center"> 
+<h3><b>Desktop</b></h3>
 <img src="https://res.cloudinary.com/rhythmusbyte/image/upload/v1708663950/Snapshots/Portfolio/Portfolio_mgsb0q.png" alt="Preview image" width="100%">
 <hr>
-<h4>Smartphone</h4>
+<h3><b>Smartphone</b></h3>
 <img src="https://res.cloudinary.com/rhythmusbyte/image/upload/v1708663958/Snapshots/Portfolio/Portfolio_2_uybh0w.png" alt="Preview Image" width="100%">
 </div>
+</details> 
 
 ## Hosting
 The website is hosted using **GitHub Pages**, allowing it to be accessible at [GitHub Pages](https://rhythmusbyte.github.io/Personal-Website). Additionally, the website is also deployed on [Netlify](https://akhilmahesh.netlify.app) using the **Netlify** platform.
