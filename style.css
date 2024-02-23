@@ -391,6 +391,62 @@ section:nth-of-type(even) {
   border: none;
 }
 
+.buttons2 {
+  font-family: "Anta", sans-serif;
+  font-size: 16px;
+  width: calc(40% - 20px);
+  height: auto;
+  background: royalblue;
+  color: white;
+  padding: 0.7em 1em;
+  padding-left: 0.9em;
+  display: flex;
+  align-items: center;
+  border: none;
+  border-radius: 16px;
+  overflow: hidden;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.buttons2 span {
+  display: block;
+  margin-left: 0.3em;
+  transition: all 0.3s ease-in-out;
+}
+
+.buttons2 svg {
+  display: block;
+  transform-origin: center center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.buttons2:hover .svg-wrapper-2 {
+  animation: fly-1 0.6s ease-in-out infinite alternate;
+}
+
+.buttons2:hover svg {
+  transform: translateX(1.2em) rotate(45deg) scale(1.1);
+}
+
+.buttons2:hover span {
+  transform: translateX(5em);
+}
+
+.buttons2:active {
+  transform: scale(0.95);
+}
+
+@keyframes fly-1 {
+  from {
+    transform: translateY(0.1em);
+  }
+
+  to {
+    transform: translateY(-0.1em);
+  }
+} 
+
 /* Footer */
 
 footer {
@@ -423,7 +479,7 @@ footer .social img {
   height: 40px;
 }
 
-/* Testimonials Section */
+/* About Section */
 
 .swiper {
   width: 100%;
