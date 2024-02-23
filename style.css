@@ -48,9 +48,10 @@ nav.main-nav .wrapper {
 }
 
 nav.main-nav .logo {
+  font-family: "Anta", sans-serif;
   font-size: 20px;
   font-weight: 800;
-  color: var(--primary-color);
+  color: #4169E1;
 }
 
 nav.main-nav .menu-icon {
