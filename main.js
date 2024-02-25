@@ -74,7 +74,7 @@ window.addEventListener("scroll", () => {
 
 // Animated Text
 
-const texts = ["Akhil Mahesh", "a Developer", "a Blogger", "Akhil"];
+const texts = ["Akhil", "Developer", "Blogger", "Akhil"];
   let currentTextIndex = 0;
   let currentCharIndex = 0;
   const dynamicTextElement = document.getElementById("dynamic-text");
