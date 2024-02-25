@@ -15,7 +15,7 @@
 ---
 
 ## Overview
-A simple and elegant portfolio website for showcasing your projects and a way to contact you. The website is responsive. 
+A simple and elegant portfolio website for showcasing my projects and a way to contact me. The website is fully responsive and partially animated. 
 
 ## Preview 
 
