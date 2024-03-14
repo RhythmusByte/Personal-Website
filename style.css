@@ -3,6 +3,7 @@
   --gray-color: #00063d;
   --dark-color: #17171a;
   --light-color: #ebf0ff;
+  --bg: rgb(16, 0, 43);
   --swiper-theme-color: #ff7474;
 }
 
@@ -25,6 +26,17 @@ html {
   max-width: 1100px;
   padding: 0 50px;
   margin: 0 auto;
+}
+
+
+/* Preloader */
+#preloader {
+  background: var(--bg) url(loader.gif) no-repeat center center;
+  background-size: 30%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
 }
 
 /* Navbar */
