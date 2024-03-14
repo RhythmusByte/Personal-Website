@@ -1,3 +1,10 @@
+// Preloader
+var loader = document.getElementById("preloader");
+
+window.addEventListener("load", function() {
+  loader.style.display = "none";
+})
+
 const swiper = new Swiper(".swiper", {
   
   direction: "horizontal",
